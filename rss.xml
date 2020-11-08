@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[What I Think]]></title><description><![CDATA[Note to Self]]></description><link>https://keshipi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Nov 2020 10:19:43 GMT</lastBuildDate><item><title><![CDATA[Github Pagesのデフォルトブランチ]]></title><description><![CDATA[Gatsby + Github Pages で静的サイトを公開しようと作業していたが、Github の master ブランチにいくらプッシュしても期待した表示にならず README の内容が表示されている。
+ローカルでは public…]]></description><link>https://keshipi.github.io/2020-11-08/</link><guid isPermaLink="false">https://keshipi.github.io/2020-11-08/</guid><pubDate>Sun, 08 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Gatsby + Github Pages で静的サイトを公開しようと作業していたが、Github の master ブランチにいくらプッシュしても期待した表示にならず README の内容が表示されている。
+ローカルでは public ディレクトリ配下のコンテンツが正常に表示されていた。&lt;/p&gt;
+&lt;p&gt;設定周りを見直してみると、デフォルトで設定されているブランチは master だと思っていたら develop だった。
+なので、Settings &gt; GitHub Pages で変更した。&lt;/p&gt;</content:encoded></item></channel></rss>
