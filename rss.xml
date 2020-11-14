@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[What I Think]]></title><description><![CDATA[Note to Self]]></description><link>https://keshipi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 08 Nov 2020 10:19:43 GMT</lastBuildDate><item><title><![CDATA[Github Pagesのデフォルトブランチ]]></title><description><![CDATA[Gatsby + Github Pages で静的サイトを公開しようと作業していたが、Github の master ブランチにいくらプッシュしても期待した表示にならず README の内容が表示されている。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[What I Think]]></title><description><![CDATA[Note to Self]]></description><link>https://keshipi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 14 Nov 2020 12:33:28 GMT</lastBuildDate><item><title><![CDATA[マイクロサービスにおける認証方法]]></title><description><![CDATA[マイクロサービスにおいて認証の処理方法は2種類ある。 各サービスがユーザを認証する方法 API…]]></description><link>https://keshipi.github.io/2020-11-14/</link><guid isPermaLink="false">https://keshipi.github.io/2020-11-14/</guid><pubDate>Sat, 14 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;マイクロサービスにおいて認証の処理方法は2種類ある。&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;各サービスがユーザを認証する方法&lt;/li&gt;
+&lt;li&gt;APIゲートウェイに認証させる方法&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2&gt;各サービスがユーザを認証する方法&lt;/h2&gt;
+&lt;p&gt;個々のサービスがユーザを認証するという仕組み。
+認証が必要となる全てのサービスで、セキュリティを正しく実装することに依存しており、
+内部ネットワークに認証を受けていないリクエストが入り込むことを許す懸念がある。&lt;/p&gt;
+&lt;h2&gt;APIゲートウェイに認証させる方法&lt;/h2&gt;
+&lt;p&gt;APIゲートウェイはリクエストを認証してからそれをサービスに転送する。
+この場合、正しく実装しなければならない箇所が1つだけに絞り込まれるというメリットがあり、セキュリティ脆弱性が生まれるリスクが下がる。
+また、多様な認証メカニズムを処理しなければならないものをAPIゲートウェイだけに絞り込むことができる。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Github Pagesのデフォルトブランチ]]></title><description><![CDATA[Gatsby + Github Pages で静的サイトを公開しようと作業していたが、Github の master ブランチにいくらプッシュしても期待した表示にならず README の内容が表示されている。
 ローカルでは public…]]></description><link>https://keshipi.github.io/2020-11-08/</link><guid isPermaLink="false">https://keshipi.github.io/2020-11-08/</guid><pubDate>Sun, 08 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Gatsby + Github Pages で静的サイトを公開しようと作業していたが、Github の master ブランチにいくらプッシュしても期待した表示にならず README の内容が表示されている。
 ローカルでは public ディレクトリ配下のコンテンツが正常に表示されていた。&lt;/p&gt;
 &lt;p&gt;設定周りを見直してみると、デフォルトで設定されているブランチは master だと思っていたら develop だった。
