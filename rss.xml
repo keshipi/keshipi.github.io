@@ -1,4 +1,16 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[What I Think]]></title><description><![CDATA[Note to Self]]></description><link>https://keshipi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 27 Nov 2020 15:36:11 GMT</lastBuildDate><item><title><![CDATA[1日の出来事]]></title><description><![CDATA[1日を振り返ってみても思い出せることが少ない。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[What I Think]]></title><description><![CDATA[Note to Self]]></description><link>https://keshipi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Mon, 30 Nov 2020 14:53:21 GMT</lastBuildDate><item><title><![CDATA[メンター]]></title><description><![CDATA[会社の同僚からMeetyというサービスについて教えてもらった。
+エンジニア向けのマッチングサービスのようだ。キャリアや働き方をはじめ、チームの雰囲気や環境といったエンジニアが気になることに関して相談できる相手を見つけることができる。相談相手になっていくれる人はCTO…]]></description><link>https://keshipi.github.io/2020-11-30/</link><guid isPermaLink="false">https://keshipi.github.io/2020-11-30/</guid><pubDate>Mon, 30 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;会社の同僚から&lt;a href=&quot;https://meety.net/&quot;&gt;Meety&lt;/a&gt;というサービスについて教えてもらった。
+エンジニア向けのマッチングサービスのようだ。キャリアや働き方をはじめ、チームの雰囲気や環境といったエンジニアが気になることに関して相談できる相手を見つけることができる。相談相手になっていくれる人はCTOやテックリードのようなエンジニアだったり、採用の人だったりするらしい。&lt;/p&gt;
+&lt;p&gt;最近は社外で自分のメンターを見つけたいと思っていた。
+社内では上司に1on1をやったりしてもらっているのだが、ここではプロジェクトや社内の出来事に関するトピックがメインになりがちだ。もう少し抽象的に物事を相談したり、社内からは少し離れた視点で物事をみてもらった意見を聞きたいと思ったからだ。
+SOFT SKILLSという本でもメンターを持つことの素晴らしさをSTAR WARSのヨーダを引用する形で説明していたし、せっかくなのでMeety使ってみたい。
+だが、何を話すかは悩みどころである。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[PHPのopenssl参照エラー]]></title><description><![CDATA[よく遭遇するこのエラー。
+PHPで必要としているopensslのバージョンと、ローカルでインストールしているopensslのバージョンが異なるために発生しているわけだ。
+現在時点でHomebrewでインストールできるopensslのバージョンが1.1なわけで、PHPBrew…]]></description><link>https://keshipi.github.io/2020-11-29/</link><guid isPermaLink="false">https://keshipi.github.io/2020-11-29/</guid><pubDate>Sun, 29 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;div class=&quot;gatsby-highlight&quot; data-language=&quot;text&quot;&gt;&lt;pre class=&quot;language-text&quot;&gt;&lt;code class=&quot;language-text&quot;&gt;openssl does not have a version &amp;quot;1.0.2s&amp;quot; in the Cellar.&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;p&gt;よく遭遇するこのエラー。
+PHPで必要としているopensslのバージョンと、ローカルでインストールしているopensslのバージョンが異なるために発生しているわけだ。
+現在時点でHomebrewでインストールできるopensslのバージョンが1.1なわけで、PHPBrewでインストールしたPHPが参照しようとしているopensslのバージョンが1.0.2sのようだ。
+解決方法は様々あるようだが自分の場合は&lt;a href=&quot;https://github.com/phpbrew/phpbrew/blob/master/README.ja.md#%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB&quot;&gt;ここ&lt;/a&gt;に記載された通りにPHPBrewを再インストールすることで解決することができた。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[1日の出来事]]></title><description><![CDATA[1日を振り返ってみても思い出せることが少ない。
 仕事をしていたけれども、その中でどんなことが起こって自分が何を思ったかを思い出すことがなかなかに難しい。
 一方で、彼女は…]]></description><link>https://keshipi.github.io/2020-11-28/</link><guid isPermaLink="false">https://keshipi.github.io/2020-11-28/</guid><pubDate>Sat, 28 Nov 2020 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;1日を振り返ってみても思い出せることが少ない。
 仕事をしていたけれども、その中でどんなことが起こって自分が何を思ったかを思い出すことがなかなかに難しい。
