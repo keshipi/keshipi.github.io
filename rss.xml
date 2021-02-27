@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[What I Think]]></title><description><![CDATA[Note to Self]]></description><link>https://keshipi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 13 Jan 2021 14:08:49 GMT</lastBuildDate><item><title><![CDATA[NO RULES(ノー・ルールズ) 世界一「自由」な会社、NETFLIX]]></title><description><![CDATA[NO RULES(ノー・ルールズ) 世界一「自由」な会社、NETFLIXを読んでいて思ったこと。
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[What I Think]]></title><description><![CDATA[Note to Self]]></description><link>https://keshipi.github.io</link><generator>GatsbyJS</generator><lastBuildDate>Sat, 27 Feb 2021 15:18:48 GMT</lastBuildDate><item><title><![CDATA[No title]]></title><description><![CDATA[…]]></description><link>https://keshipi.github.io/2021-02-27/</link><guid isPermaLink="false">https://keshipi.github.io/2021-02-27/</guid><pubDate>Sat, 27 Feb 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;受け入れる側として面接をした。まあ面接官といった役割だったと思う。
+もし入社いただいたら、自分が参画しているプロジェクトに入っていただくということだったので
+プロジェクトでのスキルやチームへのフィットにマッチングしているかを主に確認する目的で自分も同席した。&lt;/p&gt;
+&lt;p&gt;面接官をやってみての感想は、自分は人を判断するのは向いていないなと思った。
+その面接が上手くいこうとなかろうと他人の人生に大きく関わってしまった気がして面接後にいろいろ考えてしまった。
+スキルをみるために過去の経験に対する質疑応答というスタイルはあまりよくないのかもしれない。
+説明下手な人はいるだろうし、もちろん面接というシチュエーションに緊張してしまい尚更話せなくなることはありうる。
+そういう場でも臆することなく説明できる人は優秀だと思うしプロジェクトを進めていく上で必要なスキルではあるが、
+プログラミングを主戦場とする人をそれだけで判断するのはもったいない気がする。実際に書かれたコードをもとに判断した方がいいのではないかと思う。
+効果的なコードテストをどう出題するかは出題者側の課題だし、それを評価する時間をかける必要も出てくるので簡単に実施できるわけではないが
+入社後のお互いのミスマッチングを防ぐには重要なファクタであると思う。&lt;/p&gt;
+&lt;p&gt;今回やってみてメリットに感じたことは、人を評価するためにはある程度幅広い知識をこちら側も有しているべきだと思った。
+相手の喋っていることがわからなければ、自分たちが聞きたいことにも話は結びつけられず、相手の得意点を聞き出すこともできない。
+だからこそ自分自身がより幅広い知識を持ってなければと改めて気を引き締めることができた。&lt;/p&gt;</content:encoded></item><item><title><![CDATA[NO RULES(ノー・ルールズ) 世界一「自由」な会社、NETFLIX]]></title><description><![CDATA[NO RULES(ノー・ルールズ) 世界一「自由」な会社、NETFLIXを読んでいて思ったこと。
 NETFLIX…]]></description><link>https://keshipi.github.io/2021-01-13/</link><guid isPermaLink="false">https://keshipi.github.io/2021-01-13/</guid><pubDate>Wed, 13 Jan 2021 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/NO-RULES-%E3%83%8E%E3%83%BC%E3%83%BB%E3%83%AB%E3%83%BC%E3%83%AB%E3%82%BA-%E4%B8%96%E7%95%8C%E4%B8%80%E3%80%8C%E8%87%AA%E7%94%B1%E3%80%8D%E3%81%AA%E4%BC%9A%E7%A4%BE%E3%80%81NETFLIX-%E6%97%A5%E6%9C%AC%E7%B5%8C%E6%B8%88%E6%96%B0%E8%81%9E%E5%87%BA%E7%89%88-ebook/dp/B08LDBNG74/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;#x26;qid=&amp;#x26;sr=&quot;&gt;NO RULES(ノー・ルールズ) 世界一「自由」な会社、NETFLIX&lt;/a&gt;を読んでいて思ったこと。
 NETFLIXではフィードバックを適切に行うための研修があるらしい。それくらい上司や部下に関係なく率直なフィードバックを行うことを重要視している。&lt;/p&gt;
 &lt;p&gt;適切なフィードバックをされたいし、したい。まじで。
